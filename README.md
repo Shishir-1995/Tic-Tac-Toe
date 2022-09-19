@@ -13,6 +13,8 @@ This is an Individual Project in which Min-Max Algorithm is implemented.
 - Responsive Layout in all Devices
 - Quick Bot Play
 
+### Tech-Stack: HTML | CSS | JAVASCRIPT
+
 ### Glimpses
 
 
