@@ -7,6 +7,8 @@ You will be playing against a bot.
 
 This is an Individual Project in which Min-Max Algorithm is implemented.
 
+
+
 ## Features
 - Responsive Layout in all Devices
 - Quick Bot Play
@@ -39,4 +41,8 @@ Result are shown as a alert tag.
 - The minimax algorithm performs a depth-first search algorithm for the exploration of the complete game tree.
 - The minimax algorithm proceeds all the way down to the terminal node of the tree, then backtrack the tree as the recursion.
 
+<hr>
+<hr>
 
+#### Do Checkout the Game 
+<a href="https://immortal-tic-tac.netlify.app/" alt="tic-tac-toe">Tic-Tac Toe Game</a>
